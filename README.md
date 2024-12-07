@@ -3,11 +3,19 @@ Text to SQL Query Generator is a powerful web app built using Streamlit and Goog
 
 🚀 Features
 Natural Language Processing: Convert natural language questions into SQL queries.
+
 Database Interaction: Fetch and display data from SQLite database.
+
 User-Friendly Interface: Built with Streamlit for a clean, intuitive UI.
+
 AI-Powered Query Generation: Uses Google's Gemini (Generative AI) to generate SQL queries.
+
 🛠️ Technologies Used
+
 Streamlit: Python framework to build interactive web applications.
+
 Google Gemini (Generative AI): AI model to process natural language and generate SQL queries.
+
 SQLite: Database used to store and fetch student data.
+
 HTML/CSS: For styling and customizing the web interface.
